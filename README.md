@@ -7,3 +7,10 @@ SPY-DEFEND is intended for legitimate use to enhance system security. Unauthoriz
 
 ## 💻 Installation 
 **EXE FILE AVAILABLE FOR DOWNLOAD !!!** <br />
+
+## 💻 SCREENSHOTS 
+**WINDOWS 10**<br />
+![image](https://github.com/Anupam2808/SPY-DEFEND/assets/66131023/add0284d-3e5a-47a8-a0ab-99e8451af11c)
+
+![image](https://github.com/Anupam2808/SPY-DEFEND/assets/66131023/596e8ed5-64fa-4d99-8eef-9a188fb099d4)
+
